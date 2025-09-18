@@ -1,0 +1,11 @@
+data: '2023-12-02'
+name: CyclophilinD
+netcharge: '+4 e'
+pdb: https://github.com/bigginlab/ABFE_workflow/blob/main/examples/CyclophilinD_data/minimal_input/receptor_protein.pdb
+references:
+  calculations:
+  - 0.1021/ja512751q
+  - 10.1021/acs.jcim.9b00105
+  - 10.1039/C9SC03754C
+  measurement:
+  - https://github.com/IAlibay/fragment-opt-abfe-benchmark/blob/main/free_energy_data/abfe.csv

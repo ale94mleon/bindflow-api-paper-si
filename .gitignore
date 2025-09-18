@@ -1,0 +1,7 @@
+# Figures
+*.pdf
+*.svg
+# Mac stuffs
+.DS_Store
+# Python stuffs
+__pycache__

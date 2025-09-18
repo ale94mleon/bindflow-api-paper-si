@@ -1,0 +1,30 @@
+mcl1:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/mcl1/mmpbsa/openff_unconstrained-2.0.0/mmxbsa_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/mcl1/mmpbsa/gaff-2.11/mmxbsa_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/mcl1/mmpbsa/espaloma-0.3.1/mmxbsa_results.csv
+p38:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/p38/mmpbsa/openff_unconstrained-2.0.0/mmxbsa_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/p38/mmpbsa/gaff-2.11/mmxbsa_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/p38/mmpbsa/espaloma-0.3.1/mmxbsa_results.csv
+ptp1b:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/ptp1b/mmpbsa/openff_unconstrained-2.0.0/mmxbsa_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/ptp1b/mmpbsa/gaff-2.11/mmxbsa_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/ptp1b/mmpbsa/espaloma-0.3.1/mmxbsa_results.csv
+tyk2:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/tyk2/mmpbsa/openff_unconstrained-2.0.0/mmxbsa_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/tyk2/mmpbsa/gaff-2.11/mmxbsa_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/tyk2/mmpbsa/espaloma-0.3.1/mmxbsa_results.csv
+thrombin:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/thrombin/mmpbsa/openff_unconstrained-2.0.0/mmxbsa_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/thrombin/mmpbsa/gaff-2.11/mmxbsa_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/thrombin/mmpbsa/espaloma-0.3.1/mmxbsa_results.csv
+A2A:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/A2A/mmpbsa/openff_unconstrained-2.0.0/mmxbsa_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/A2A/mmpbsa/gaff-2.11/mmxbsa_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/A2A/mmpbsa/espaloma-0.3.1/mmxbsa_results.csv
+CyclophilinD:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/CyclophilinD/mmpbsa/openff_unconstrained-2.0.0/mmxbsa_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/CyclophilinD/mmpbsa/gaff-2.11/mmxbsa_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/CyclophilinD/mmpbsa/espaloma-0.3.1/mmxbsa_results.csv
+SAMPL6-OA:
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/SAMPL6-OA/mmpbsa/espaloma-0.3.1/mmxbsa_results.csv

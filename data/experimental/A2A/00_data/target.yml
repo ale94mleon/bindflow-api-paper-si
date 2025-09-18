@@ -1,0 +1,11 @@
+date: '2021-02-04'
+name: A2A
+netcharge: '?'
+pdb:
+- 5OLZ
+- 6GT3
+references:
+  calculations:
+  - 10.1021/acs.jcim.0c00449
+  measurement:
+  - '10.1021/acs.jcim.0c00449: Table S2'

@@ -1,0 +1,24 @@
+CyclophilinD:
+  protein: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/CyclophilinD/01_protein/crd/receptor_protein.pdb
+  ligands: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/CyclophilinD/02_ligands/sdf_split/
+mcl1:
+  protein: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/mcl1/01_protein/crd/protein_non_wt.pdb
+  ligands: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/mcl1/02_ligands/sdf_split/
+p38:
+  protein: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/p38/01_protein/crd/protein_non_wt.pdb
+  ligands: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/p38/02_ligands/sdf_split/
+ptp1b:
+  protein: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/ptp1b/01_protein/crd/protein_non_wt.pdb
+  ligands: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/ptp1b/02_ligands/sdf_split/
+thrombin:
+  protein: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/thrombin/01_protein/crd/protein_non_wt.pdb
+  ligands: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/thrombin/02_ligands/sdf_split/
+tyk2:
+  protein: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/tyk2/01_protein/crd/protein_non_wt.pdb
+  ligands: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/tyk2/02_ligands/sdf_split/
+SAMPL6-OA:
+  protein: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/SAMPL6-OA/01_protein/crd/protein.pdb
+  ligands: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/SAMPL6-OA/02_ligands/
+A2A:
+  protein: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/A2A/01_protein/crd/receptor_protein.pdb
+  ligands: /Users/klimt/GIT/bindflow-api-paper-si/data/experimental/A2A/02_ligands/sdf_split/

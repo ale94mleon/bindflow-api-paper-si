@@ -1,0 +1,110 @@
+4g:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 7.762471166286927e-09
+  name: 4g
+  smiles: '[H]c1c([H])c([H])c(-c2nc(N([H])[H])nnc2-c2c([H])c(C([H])([H])[H])nc(C([H])([H])[H])c2[H])c([H])c1[H]'
+4h:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 1.5488166189124828e-08
+  name: 4h
+  smiles: '[H]c1c([H])c(-c2nc(N([H])[H])nnc2-c2c([H])c(C([H])([H])[H])nc(C([H])([H])[H])c2[H])c([H])c([H])c1F'
+4i:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 2.754228703338169e-08
+  name: 4i
+  smiles: '[H]c1c(F)c([H])c(-c2nc(N([H])[H])nnc2-c2c([H])c(C([H])([H])[H])nc(C([H])([H])[H])c2[H])c([H])c1F'
+4j:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 1.0471285480508984e-08
+  name: 4j
+  smiles: '[H]c1c([H])c(F)c([H])c(-c2nc(N([H])[H])nnc2-c2c([H])c(C([H])([H])[H])nc(C([H])([H])[H])c2[H])c1[H]'
+4k:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 3.4673685045253096e-09
+  name: 4k
+  smiles: '[H]c1c([H])c([H])c(-c2nc(N([H])[H])nnc2-c2c([H])c(C([H])([H])[H])nc(C(F)(F)F)c2[H])c([H])c1[H]'
+4l:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 4.570881896148752e-09
+  name: 4l
+  smiles: '[H]c1c([H])c(-c2nc(N([H])[H])nnc2-c2c([H])c(C([H])([H])[H])nc(C(F)(F)F)c2[H])c([H])c([H])c1F'
+4m:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 1.8620871366628656e-08
+  name: 4m
+  smiles: '[H]c1nc(Cl)c([H])c(-c2nnc(N([H])[H])nc2-c2c([H])c([H])c([H])c([H])c2[H])c1[H]'
+4n:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 3.3884415613920203e-09
+  name: 4n
+  smiles: '[H]c1c([H])c([H])c(-c2nc(N([H])[H])nnc2-c2c([H])c(Cl)nc(Cl)c2[H])c([H])c1[H]'
+4q:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 3.090295432513592e-07
+  name: 4q
+  smiles: '[H]c1nc([H])c([H])c(-c2nnc(N([H])[H])nc2-c2c([H])c([H])c([H])c([H])c2[H])c1[H]'
+4r:
+  measurement:
+    charge: 0.0
+    comment: raw data from Table S2
+    doi: 10.1021/acs.jcim.0c00449
+    error: 0
+    type: kd
+    unit: M
+    value: 3.981071705534969e-09
+  name: 4r
+  smiles: '[H]c1c([H])c(-c2nc(N([H])[H])nnc2-c2c([H])c(Cl)nc(C(F)(F)F)c2[H])c([H])c([H])c1F'

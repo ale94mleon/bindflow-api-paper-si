@@ -1,0 +1,30 @@
+mcl1:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/mcl1/fep/openff_unconstrained-2.0.0/fep_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/mcl1/fep/gaff-2.11/fep_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/mcl1/fep/espaloma-0.3.1/fep_results.csv
+p38:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/p38/fep/openff_unconstrained-2.0.0/fep_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/p38/fep/gaff-2.11/fep_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/p38/fep/espaloma-0.3.1/fep_results.csv
+ptp1b:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/ptp1b/fep/openff_unconstrained-2.0.0/fep_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/ptp1b/fep/gaff-2.11/fep_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/ptp1b/fep/espaloma-0.3.1/fep_results.csv
+tyk2:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/tyk2/fep/openff_unconstrained-2.0.0/fep_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/tyk2/fep/gaff-2.11/fep_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/tyk2/fep/espaloma-0.3.1/fep_results.csv
+thrombin:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/thrombin/fep/openff_unconstrained-2.0.0/fep_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/thrombin/fep/gaff-2.11/fep_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/thrombin/fep/espaloma-0.3.1/fep_results.csv
+A2A:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/A2A/fep/openff_unconstrained-2.0.0/fep_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/A2A/fep/gaff-2.11/fep_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/A2A/fep/espaloma-0.3.1/fep_results.csv
+CyclophilinD:
+  openff-2.0.0: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/CyclophilinD/fep/openff_unconstrained-2.0.0/fep_results.csv
+  gaff-2.11: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/CyclophilinD/fep/gaff-2.11/fep_results.csv
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/CyclophilinD/fep/espaloma-0.3.1/fep_results.csv
+SAMPL6-OA:
+  espaloma-0.3.1: /Users/klimt/GIT/bindflow-api-paper-si/data/simulation/bindflow/individual/SAMPL6-OA/fep/espaloma-0.3.1/fep_results.csv

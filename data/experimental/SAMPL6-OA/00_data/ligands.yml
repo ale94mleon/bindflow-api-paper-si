@@ -1,0 +1,88 @@
+OA-G0:
+  measurement:
+    charge: -1.0
+    comment: https://raw.githubusercontent.com/samplchallenges/SAMPL6/master/host_guest/Analysis/ExperimentalMeasurements/experimental_measurements.csv
+    doi: 10.1007/s10822-018-0170-6
+    error: 0.03
+    type: dg
+    unit: kcal/mol
+    value: -5.68
+  name: OA-G0
+  smiles: O=C([O-])CC1CCCC1
+OA-G1:
+  measurement:
+    charge: -1.0
+    comment: https://raw.githubusercontent.com/samplchallenges/SAMPL6/master/host_guest/Analysis/ExperimentalMeasurements/experimental_measurements.csv
+    doi: 10.1007/s10822-018-0170-6
+    error: 0.02
+    type: dg
+    unit: kcal/mol
+    value: -4.65
+  name: OA-G1
+  smiles: CCC/C=C/C(=O)[O-]
+OA-G2:
+  measurement:
+    charge: -1.0
+    comment: https://raw.githubusercontent.com/samplchallenges/SAMPL6/master/host_guest/Analysis/ExperimentalMeasurements/experimental_measurements.csv
+    doi: 10.1007/s10822-018-0170-6
+    error: 0.02
+    type: dg
+    unit: kcal/mol
+    value: -8.38
+  name: OA-G2
+  smiles: C=C(C)[C@@H]1CC=C(C(=O)[O-])CC1
+OA-G3:
+  measurement:
+    charge: -1.0
+    comment: https://raw.githubusercontent.com/samplchallenges/SAMPL6/master/host_guest/Analysis/ExperimentalMeasurements/experimental_measurements.csv
+    doi: 10.1007/s10822-018-0170-6
+    error: 0.02
+    type: dg
+    unit: kcal/mol
+    value: -5.18
+  name: OA-G3
+  smiles: C=CCCCC(=O)[O-]
+OA-G4:
+  measurement:
+    charge: -1.0
+    comment: https://raw.githubusercontent.com/samplchallenges/SAMPL6/master/host_guest/Analysis/ExperimentalMeasurements/experimental_measurements.csv
+    doi: 10.1007/s10822-018-0170-6
+    error: 0.02
+    type: dg
+    unit: kcal/mol
+    value: -7.11
+  name: OA-G4
+  smiles: CC(C)=CCC[C@H](C)CC(=O)[O-]
+OA-G5:
+  measurement:
+    charge: -1.0
+    comment: https://raw.githubusercontent.com/samplchallenges/SAMPL6/master/host_guest/Analysis/ExperimentalMeasurements/experimental_measurements.csv
+    doi: 10.1007/s10822-018-0170-6
+    error: 0.02
+    type: dg
+    unit: kcal/mol
+    value: -4.59
+  name: OA-G5
+  smiles: C=CC[C@@H](C)C(=O)[O-]
+OA-G6:
+  measurement:
+    charge: -1.0
+    comment: https://raw.githubusercontent.com/samplchallenges/SAMPL6/master/host_guest/Analysis/ExperimentalMeasurements/experimental_measurements.csv
+    doi: 10.1007/s10822-018-0170-6
+    error: 0.02
+    type: dg
+    unit: kcal/mol
+    value: -4.97
+  name: OA-G6
+  smiles: CC(C)CCC(=O)[O-]
+OA-G7:
+  measurement:
+    charge: -1.0
+    comment: https://raw.githubusercontent.com/samplchallenges/SAMPL6/master/host_guest/Analysis/ExperimentalMeasurements/experimental_measurements.csv
+    doi: 10.1007/s10822-018-0170-6
+    error: 0.02
+    type: dg
+    unit: kcal/mol
+    value: -6.22
+  name: OA-G7
+  smiles: C=CCC(C)(C)C(=O)[O-]

@@ -1,0 +1,5 @@
+TITLE     Manual Modification
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   90.089   90.089  119.799  90.00  90.00  60.00 P 1           1
+HETATM 4825 NA    NA Z 500      70.562  38.686  64.417  1.00 44.22          Na1+
+END

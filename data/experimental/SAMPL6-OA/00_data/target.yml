@@ -1,0 +1,10 @@
+date: '2021-02-04'
+name: OA
+netcharge: '?'
+pdb: none
+references:
+  calculations:
+  - https://github.com/samplchallenges/SAMPL6
+  - 10.1007/s10822-018-0170-6
+  measurement:
+  - https://github.com/samplchallenges/SAMPL6
