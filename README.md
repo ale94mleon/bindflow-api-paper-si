@@ -84,7 +84,7 @@ python -m pip install seaborn scipy openpyxl git+https://github.com/ale94mleon/p
 │       ├── inputs
 │       └── make_ndx.py
 ├── data
-│   ├── experimental  ->  (Experimental data collected from references)
+│   ├── experimental  ->  (Experimental data collected from references, replicating the structure of https://github.com/openforcefield/protein-ligand-benchmark)
 │   │   ├── A2A
 │   │   ├── CyclophilinD
 │   │   ├── mcl1
