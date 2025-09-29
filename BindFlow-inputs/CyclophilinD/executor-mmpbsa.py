@@ -39,10 +39,7 @@ for ff_id, info in force_fields.items():
 
     calculate(
         calculation_type=calculation_type,
-        protein={
-            'conf': 'inputs/protein-amber14-all/protein_non_wt.gro',
-            'top': 'inputs/protein-amber14-all/protein_non_wt.top',
-        },
+        protein='inputs/receptor_protein.pdb',
         ligands=ligands,
         water_model='amber/tip3p',
         hmr_factor=2.5,
