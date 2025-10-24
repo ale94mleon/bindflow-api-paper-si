@@ -1,6 +1,6 @@
 # README
 
-This repository stores all necessary input files and script to reproduce the results of the [BindFlow paper](https://example.com).
+This repository stores all necessary input files and script to reproduce the results of the [BindFlow paper](https://www.biorxiv.org/content/10.1101/2025.09.25.678545v1).
 
 ## Installation
 
@@ -113,6 +113,6 @@ All figures of the BindFlow paper can be exactly reproduced with the Python scri
 
 ## BindFlow inputs
 
-The full benchmark campaign can be reproduced from the inputs on `BindFlow-inputs`. You will need to first install BindFlow in your HPC. For that follow the instructions on the [BidnFlow docs](https://bindlfow.readthedocs.io/en/latest/).
+The full benchmark campaign can be reproduced from the inputs on `BindFlow-inputs`. You will need to first install BindFlow in your HPC. For that follow the instructions on the [BidnFlow docs](https://bindflow.readthedocs.io/en/latest/).
 
-The Python version used is the one reported in the [BindFlow paper](https://example.com).
+The BindFlow version used is the one reported in the [BindFlow paper](https://www.biorxiv.org/content/10.1101/2025.09.25.678545v1) (0.13.0.post24).
