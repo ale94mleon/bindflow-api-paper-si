@@ -1,6 +1,7 @@
 # Figures
 *.pdf
 *.svg
+*.dfpkl
 # Mac stuffs
 .DS_Store
 # Python stuffs
