@@ -214,7 +214,7 @@ def make_publication_plot2(dfs, name_list, figsize=(20, 18), replicates=100_000,
                     fr"  &r_S = {spearman[0]}_{{{spearman[1]}}}^{{{spearman[2]}}} \\"
                     fr"  &\tau = {kendall[0]}_{{{kendall[1]}}}^{{{kendall[2]}}} \\"
                     fr"  &\mathrm{{ocRMSE}} = {rmse[0]}_{{{rmse[1]}}}^{{{rmse[2]}}} \\"
-                    fr"  &\mathrm{{ocMUE}} = {mue[0]}_{{{mue[1]}}}^{{{mue[2]}}}"
+                    # fr"  &\mathrm{{ocMUE}} = {mue[0]}_{{{mue[1]}}}^{{{mue[2]}}}"
                     r"\end{aligned}"
                     r"\end{equation*}"
                 )
