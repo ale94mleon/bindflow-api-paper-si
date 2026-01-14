@@ -2,6 +2,8 @@
 
 This repository stores all necessary input files and script to reproduce the results of the [BindFlow paper](https://pubs.acs.org/doi/10.1021/acs.jctc.5c02026).
 
+This repository is only for reference and reproducibility, and therefore will not be actively developed.
+
 ## Installation
 
 ```bash
